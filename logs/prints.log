@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 16:26:32.099 [main] DEBUG base.TestBase -  Cofiguration file loaded
 16:26:32.177 [main] DEBUG base.TestBase - Property value got successfully Name : broswer 
 16:35:18.368 [main] DEBUG base.TestBase -  Cofiguration file loaded
 16:35:18.368 [main] DEBUG base.TestBase - Property value got successfully Name : broswer 
 16:46:18.750 [main] DEBUG base.TestBase -  Cofiguration file loaded
 16:46:18.750 [main] DEBUG base.TestBase - Property value got successfully Name : broswer 
+=======
+06:09:32.490 [main] INFO  base.TestBase - Chrome lauched suceessfully
+06:09:32.496 [main] DEBUG base.TestBase -  Implicit wait applied suceessfully
+06:09:33.666 [main] DEBUG base.TestBase - Property value got successfully Name : url
+06:09:38.557 [main] INFO  base.TestBase -  Url lauched suceessfully
+06:09:38.558 [main] INFO  tests.HomePageTest - Initialization of driver done
+06:09:39.360 [main] INFO  tests.HomePageTest - Broswer window is clode. Driver closed
+>>>>>>> parent of a75bf9c (Change of chromedriver)

@@ -1,22 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<<<<<<< HEAD
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <listeners>
     <listener class-name="base.listeners"/>
   </listeners>
   <test name="HomePageTest(failed)">
+=======
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+>>>>>>> parent of a75bf9c (Change of chromedriver)
     <classes>
       <class name="tests.HomePageTest">
         <methods>
+<<<<<<< HEAD
           <include name="navigateToRegisterPageTC4"/>
           <include name="tittleValidateTC1"/>
           <include name="currencyDropDownTC3"/>
           <include name="logoValidateTC2"/>
           <include name="getPhoneNumberTC6"/>
           <include name="navigateToLoginPageTC5"/>
+=======
+          <include name="fillDetailsTC2"/>
+          <include name="tearDown"/>
+>>>>>>> parent of a75bf9c (Change of chromedriver)
           <include name="setUp"/>
         </methods>
       </class> <!-- tests.HomePageTest -->
     </classes>
+<<<<<<< HEAD
   </test> <!-- HomePageTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->
+=======
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
+>>>>>>> parent of a75bf9c (Change of chromedriver)

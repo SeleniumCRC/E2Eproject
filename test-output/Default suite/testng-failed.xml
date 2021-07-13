@@ -3,6 +3,7 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
+<<<<<<< HEAD
       <class name="tests.HomePageTest">
         <methods>
           <include name="tittleValidateTC1"/>
@@ -10,6 +11,15 @@
           <include name="setUp"/>
         </methods>
       </class> <!-- tests.HomePageTest -->
+=======
+      <class name="tests.HomeHotelsTest">
+        <methods>
+          <include name="fillDetailsTC2"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.HomeHotelsTest -->
+>>>>>>> parent of a75bf9c (Change of chromedriver)
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,13 +1,11 @@
 E:\project\E2EProject\src\main\java\base\ExtentReporterNG.java
+E:\project\E2EProject\src\main\java\base\listeners.java
 E:\project\E2EProject\src\main\java\pages\HomePageFlightsPage.java
-E:\project\E2EProject\src\main\java\pages\Account.java
+E:\project\E2EProject\src\main\java\pages\Register.java
+E:\project\E2EProject\src\main\java\pages\HomePageToursPage.java
 E:\project\E2EProject\src\main\java\pages\HomeHotelsPage.java
-E:\project\E2EProject\src\main\java\pages\LoginPage.java
 E:\project\E2EProject\src\main\java\utils\UtilMethods.java
 E:\project\E2EProject\src\main\java\pages\HomePageVisaPage.java
-E:\project\E2EProject\src\main\java\pages\HomePageCarsPage.java
-E:\project\E2EProject\src\main\java\pages\RegisterPage.java
-E:\project\E2EProject\src\main\java\base\listeners.java
-E:\project\E2EProject\src\main\java\pages\HomePageToursPage.java
 E:\project\E2EProject\src\main\java\pages\HomePage.java
+E:\project\E2EProject\src\main\java\pages\HomePageCarsPage.java
 E:\project\E2EProject\src\main\java\base\TestBase.java

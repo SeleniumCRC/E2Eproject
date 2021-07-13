@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <testng-results skipped="6" failed="0" total="6" passed="0">
   <reporter-output>
   </reporter-output>
@@ -202,4 +203,41 @@ remote stacktrace: Backtrace:
       </class> <!-- tests.HomePageTest -->
     </test> <!-- HomePageTest -->
   </suite> <!-- Suite -->
+=======
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36668" started-at="2020-05-25T00:39:02Z" finished-at="2020-05-25T00:39:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36668" started-at="2020-05-25T00:39:02Z" finished-at="2020-05-25T00:39:39Z">
+      <class name="tests.HomeHotelsTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.HomeHotelsTest@662ac478]" name="setUp" is-config="true" duration-ms="11240" started-at="2020-05-25T06:09:02Z" finished-at="2020-05-25T06:09:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="fillDetailsTC2()[pri:0, instance:tests.HomeHotelsTest@662ac478]" name="fillDetailsTC2" duration-ms="13851" started-at="2020-05-25T06:09:13Z" finished-at="2020-05-25T06:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillDetailsTC2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.HomeHotelsTest@662ac478]" name="tearDown" is-config="true" duration-ms="2328" started-at="2020-05-25T06:09:27Z" finished-at="2020-05-25T06:09:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.HomeHotelsTest@662ac478]" name="setUp" is-config="true" duration-ms="8423" started-at="2020-05-25T06:09:30Z" finished-at="2020-05-25T06:09:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateHomeHotelUiTC1()[pri:0, instance:tests.HomeHotelsTest@662ac478]" name="navigateHomeHotelUiTC1" duration-ms="649" started-at="2020-05-25T06:09:38Z" finished-at="2020-05-25T06:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHomeHotelUiTC1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.HomeHotelsTest@662ac478]" name="tearDown" is-config="true" duration-ms="148" started-at="2020-05-25T06:09:39Z" finished-at="2020-05-25T06:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.HomeHotelsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+>>>>>>> parent of a75bf9c (Change of chromedriver)
 </testng-results>

@@ -1,7 +1,7 @@
-09:42:56.632 [main] INFO  base.TestBase - Chrome lauched suceessfully
-09:42:56.646 [main] DEBUG base.TestBase -  Implicit wait applied suceessfully
-09:42:57.848 [main] DEBUG base.TestBase - Property value got successfully Name : url
-09:43:02.320 [main] INFO  base.TestBase -  Url lauched suceessfully
-09:43:02.421 [main] INFO  tests.HomePageTest - Initialization of driver done
-09:44:18.706 [main] INFO  tests.HomePageTest - Broswer window is clode. Driver closed
-09:44:18.710 [main] DEBUG base.TestBase -  Cofiguration file loaded
+06:09:05.729 [main] DEBUG base.TestBase -  Implicit wait applied suceessfully
+06:09:06.864 [main] DEBUG base.TestBase - Property value got successfully Name : url
+06:09:13.909 [main] INFO  base.TestBase -  Url lauched suceessfully
+06:09:13.954 [main] INFO  tests.HomePageTest - Initialization of driver done
+06:09:30.133 [main] INFO  tests.HomePageTest - Broswer window is clode. Driver closed
+06:09:30.137 [main] DEBUG base.TestBase -  Cofiguration file loaded
+06:09:30.138 [main] DEBUG base.TestBase - Property value got successfully Namw : broswer 
